@@ -1,3 +1,20 @@
+
+
+
+<img width="1920" height="1920" alt="geoinfo" src="https://github.com/user-attachments/assets/36d3d249-38ee-467e-81b5-b2932ac307d8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Geo Spatial Info
 
 Adalah implementasi osrm pada osm maps (localhost) dideploy menggunakan docker backend. 
