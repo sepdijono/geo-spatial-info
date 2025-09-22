@@ -1,0 +1,4 @@
+folium==0.20.0
+requests==2.31.0
+PySide6==6.9.2
+shapely==2.1.1

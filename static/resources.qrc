@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>boat-10-256.icns</file>
+    <file>close-window-256.icns</file>
+    <file>cloud-upload-256.icns</file>
+    <file>contacts-256.icns</file>
+    <file>contacts-256 (1).icns</file>
+    <file>contacts-256 (2).icns</file>
+    <file>home-4-256.icns</file>
+    <file>maximize-window-256.icns</file>
+    <file>minimize-window-256.icns</file>
+    <file>power-256.icns</file>
+    <file>search-6-256.icns</file>
+  </qresource>
+</RCC>
